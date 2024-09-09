@@ -1,0 +1,4 @@
+services:
+  c:
+    build:
+      context: .
